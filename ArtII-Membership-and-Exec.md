@@ -21,6 +21,7 @@ The Party Leader shall be responsible for political matters of the party, includ
 
 The Chief Agent shall be responsible for the financial matters of the party. Additionally, the Chief Agent may enter into agreements and contracts in writing on behalf of the party, but at least one other Primary Executive must also co-sign.
 
+Each Primary Executive shall be a Member and shall be at least 18 years of age. 
 
 ### §3 Additional Executives
 

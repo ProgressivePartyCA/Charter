@@ -6,7 +6,6 @@ At the creation of the party, certain individuals shall be identified as Interim
 
 * Interim President
 * Interim Party Leader
-* Interim Secretary
 * Interim Members at Large
 
 These individuals shall take office immediately and serve a term as set out in §22. While in these positions, the officers shall hold the same authority as the equivalent Executive position, and shall form the Executive Council.
